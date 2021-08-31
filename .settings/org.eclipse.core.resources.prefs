@@ -1,0 +1,7 @@
+eclipse.preferences.version=1
+encoding//src/etiyaGamesLayered/business/concretes/ChildScoreManager.java=UTF-8
+encoding//src/etiyaGamesLayered/business/concretes/MenScoreManager.java=UTF-8
+encoding//src/etiyaGamesLayered/business/concretes/SellingManager.java=UTF-8
+encoding//src/etiyaGamesLayered/business/concretes/WomenScoreManager.java=UTF-8
+encoding//src/etiyaGamesLayered/dataAccess/concretes/UserDao.java=UTF-8
+encoding//src/etiyaGamesLayered/userInterface/Main.java=UTF-8
